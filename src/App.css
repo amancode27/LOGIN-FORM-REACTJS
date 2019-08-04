@@ -1,0 +1,24 @@
+
+.Login-form{
+  width: 100%;
+  max-width: 450px;
+  padding: 15px;
+  margin:auto;
+  height:100%;
+  margin-top: 40px;
+  background-color: #cc0066;
+
+}
+h1{
+  text-align: center;
+}
+.font-weight-bold{
+  color: #ffcc33;
+}
+
+h2{
+  color: #ff0066;
+}
+a{
+  color: #fff;
+}
